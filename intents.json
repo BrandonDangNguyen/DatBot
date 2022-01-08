@@ -58,7 +58,12 @@
        "responses": ["what?", "what are you talking about", "i dont understand..."]},
    {"tag": "music",
        "patterns": ["do you like music", "is music your passion", "do you like piano"],
-       "responses": ["i love music! especially playing the piano and composing my own music "]}
+       "responses": ["i love music! especially playing the piano and composing my own music "]},
+  {"tag": "the sky",
+       "patterns": ["what up", "what's up", "wassup", "whats"],
+       "responses": ["the sky"]},
+ 
+  
 
 
 
