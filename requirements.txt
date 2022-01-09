@@ -1,14 +1,5 @@
-aiohttp==3.7.4.post0
-async-timeout==3.0.1
-attrs==21.4.0
-chardet==4.0.0
 discord.py==1.7.3
-idna==3.3
-multidict==5.2.0
 numpy==1.22.0
 python-dotenv==0.19.2
-typing_extensions==4.0.1
-yarl==1.7.2
-discord~=1.7.3
 nltk~=3.6.7
 neuralintents~=0.0.4
